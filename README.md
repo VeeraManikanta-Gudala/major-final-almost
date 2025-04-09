@@ -5,3 +5,4 @@ This demo implements object detection and tracking using Ultralytics YoloV10 and
 - [yolo_detector.py](./yolo_detector.py) - detector script using YoloV10X (x = user choice) 
 - [tracker.py](./tracker.py) - tracker script using Deep SORT
 
+# major-final-almost
